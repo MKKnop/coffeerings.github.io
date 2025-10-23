@@ -9,22 +9,58 @@ permalink: /de/support/
   <a href="/en/support/">English</a>
 </p>
 
-# ☕ Support – Coffee Rings
-**Stand / Last updated:** September 2025
+# ☕ Coffee Rings Support
+**Stand:** Oktober 2025  
 
-Willkommen beim Support für **Espresso Dial-In / Coffee Rings**.  
-Dies ist eine Beta-Version – wir freuen uns über dein Feedback und deine Fragen!
+## Perfekter Espresso ist kein Zufall
+
+Mit **Coffee Rings** kannst du deine Espressoshots präzise dokumentieren, analysieren und gezielt verbessern.  
+Ob du lieber selbst experimentierst oder dich von der App leiten lässt – Coffee Rings zeigt dir auf Basis bewährter Barista-Erfahrung und physikalischer Parameter, wie du deinen Espresso Schritt für Schritt perfektionierst.
+
+---
+
+## 🚀 Hauptfunktionen
+- **Shots dokumentieren:** Erfasse Mahlgrad, Dosis, Output, Temperatur und Zeit – schnell und übersichtlich.  
+- **Geschmack bewerten:** Beurteile Süße, Säure, Bitterkeit und Körper – die Basis für präzise Analysen.  
+- **Offline-Empfehlungen:** Erhalte sofort Feedback aus unserer integrierten Barista-Knowledge-Base – ganz ohne Internet.  
+- **Espresso Tutor:** Lerne die Zusammenhänge zwischen Parameter und Geschmack kennen und verstehe deine Extraktion besser.  
+- **Rezept-Bibliothek:** Lege Rezepte an, vergleiche Shots und exportiere sie als `.espressoRecipe`-Dateien.  
+- **Optionale KI-Analysen:** Wenn du möchtest, kannst du einen eigenen OpenAI-API-Key verwenden – für weiterführende Erklärungen und Lernmomente.  
+- **Volle Kontrolle:** Keine Registrierung, keine Werbung, kein Tracking – alle Daten bleiben auf deinem Gerät.  
+- **iCloud-Sync optional:** Sichere Rezepte auf Wunsch in deiner privaten iCloud.  
+
+---
+
+## 📘 Erste Schritte
+1. **App öffnen** → *Neuen Shot* starten.  
+2. **Kaffee anlegen** → Röster, Bohne und Röstgrad eintragen.  
+3. **Parameter eingeben** → Dosis, Output, Temperatur u. a.  
+4. **Shot bewerten** → Geschmacksprofil erfassen.  
+5. **Analyse ansehen** → Offline-Empfehlung oder optional KI-Auswertung.  
+
+So entsteht eine dokumentierte Shot-Historie, aus der du lernen kannst – deine eigene Espresso-Datenbank.
+
+---
+
+## 🔍 Häufige Fragen
+
+**Wie funktioniert die Offline-Empfehlung?**  
+→ Die App verwendet eine eingebaute Knowledge-Base auf Basis von Barista-Logik und Extraktionsprinzipien. Keine Internetverbindung erforderlich.
+
+**Was bringt die optionale KI-Analyse?**  
+→ Sie liefert zusätzliche Erklärungen und Vergleiche. Die Daten werden direkt zwischen deinem Gerät und OpenAI übertragen. Der Entwickler erhält keinen Zugriff.
+
+**Wie werden meine Daten gespeichert?**  
+→ Standardmäßig ausschließlich lokal auf deinem Gerät. iCloud-Sync ist optional und ausschließlich deiner Apple-ID zugeordnet.
+
+**Wie melde ich einen Fehler oder gebe Feedback?**  
+→ Schreibe eine E-Mail an **dev@mkknop.de** mit einer kurzen Beschreibung und ggf. Screenshot.  
+
+---
 
 ## 📩 Kontakt
-Bei Problemen oder Vorschlägen erreichst du uns per E-Mail:  
-**dev@mkknop.de**
+E-Mail: **coffeerings.app@gmail.com**
 
-## ❓ Häufige Fragen
-- **Wie speichere ich ein Rezept?**  
-  → Im Bereich „Rezeptbuch“ kannst du neue Rezepte anlegen und jederzeit wieder abrufen.
+---
 
-- **Wie funktioniert die KI-Auswertung?**  
-  → In den Einstellungen kannst du einen eigenen OpenAI API-Key eingeben. Die Analyse läuft direkt zwischen deinem Gerät und OpenAI.
-
-- **Ich habe einen Fehler gefunden – was tun?**  
-  → Bitte sende uns eine kurze Beschreibung per E-Mail, ggf. mit Screenshot. Das hilft uns, die App zu verbessern.
+© 2025 Michael Knop · Coffee Rings · Alle Rechte vorbehalten
